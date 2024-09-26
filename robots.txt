@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nondkqb.github.io/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/app/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/assets/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/css/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/data/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/includes/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/item/sitemap.nondkqb.gz
+Sitemap: https://nondkqb.github.io/src/sitemap.nondkqb.gz
